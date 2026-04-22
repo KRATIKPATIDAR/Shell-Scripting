@@ -7,4 +7,5 @@ echo "Today is Wednesday"
 echo "I'm from May 2025 batch"
 
 echo "I'm creating a new branch"
+echo "hello everyone"
 
